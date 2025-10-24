@@ -1,0 +1,59 @@
+Q|Quelle est la planète la plus proche du Soleil ?
+A|Mercure|V
+A|Vénus|X
+A|Terre|X
+A|Croissant au beurre |X
+
+Q|Parmi ces langages, lesquels sont utilisés pour le développement web ?
+A|HTML|V
+A|JavaScript|V
+A|CSS|V
+A|Klingon|X
+
+Q|Qui a peint La Joconde ?
+A|Léonard de Vinci|V
+A|Michel-Ange|X
+A|Raphaël|X
+A|C3PO|X
+
+Q|Quelle(s) de ces sources d’énergie sont renouvelables ?
+A|Énergie solaire|V
+A|Énergie éolienne|V
+A|Énergie nucléaire|X
+A|Énergie de la flemme|X
+
+Q|Quelle est la capitale du Canada ?
+A|Toronto|X
+A|Ottawa|V
+A|Vancouver|X
+A|Crocodile Dundee|X
+
+Q|Dans quel domaine utilise-t-on principalement le mot “algorithme” ?
+A|Informatique|V
+A|Mathématiques|V
+A|Cuisine moléculaire|X
+A|Biologie|X
+
+Q|Quels sont des mammifères ?
+A|Dauphin|V
+A|Chauve-souris|V
+A|Requin|X
+A|Wi-Fi|X
+
+Q|Quelle est la formule chimique de l’eau ?
+A|H₂O|V
+A|CO₂|X
+A|O₂|X
+A|Pâtes carbo|X
+
+Q|Lequel de ces pays fait partie de l’Union européenne ?
+A|Espagne|V
+A|Norvège|X
+A|Italie|V
+A|Wakanda|X
+
+Q|Quelle invention est attribuée à Thomas Edison ?
+A|L’ampoule électrique|V
+A|Le phonographe|V
+A|L’imprimerie|X
+A|Un lama cracheur de feu|X
